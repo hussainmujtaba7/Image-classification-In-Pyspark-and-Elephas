@@ -2,14 +2,14 @@
 
 ## Technologies Used
 
-PySpark is a Python API (Application Programming Interface) for Apache Spark, which is a fast and general-purpose distributed computing system for Big Data processing. It provides an interface for programming Spark with Python instead of Scala or Java, which makes it easier for data scientists and developers to use Spark for large-scale data processing and machine learning.
+**PySpark** is a Python API (Application Programming Interface) for Apache Spark, which is a fast and general-purpose distributed computing system for Big Data processing. It provides an interface for programming Spark with Python instead of Scala or Java, which makes it easier for data scientists and developers to use Spark for large-scale data processing and machine learning.
 
 PySpark allows users to leverage the power of Spark's distributed computing framework using Python syntax, which is a popular language among data scientists and developers for its simplicity and ease of use. With PySpark, users can easily manipulate large datasets, perform complex data transformations, and build scalable machine learning models.
 
-Elephas is a distributed deep learning library built on top of Spark, which is a popular big data processing engine. Elephas enables distributed training of Keras deep learning models on Spark clusters, making it ideal for large-scale machine learning applications. It allows users to scale their deep learning models to big data and take advantage of distributed computing resources.
+**Elephas** is a distributed deep learning library built on top of Spark, which is a popular big data processing engine. Elephas enables distributed training of Keras deep learning models on Spark clusters, making it ideal for large-scale machine learning applications. It allows users to scale their deep learning models to big data and take advantage of distributed computing resources.
 Detection of diseases a plant may have based on the images of the leaves.
 
-Streamlit is an open-source Python library used for building interactive data science and machine learning web applications. It allows data scientists and developers to quickly and easily create web applications that can display data, models, and visualizations in a user-friendly way.
+**Streamlit** is an open-source Python library used for building interactive data science and machine learning web applications. It allows data scientists and developers to quickly and easily create web applications that can display data, models, and visualizations in a user-friendly way.
 
 ## Details of the problem statement
 
